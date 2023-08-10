@@ -1,4 +1,4 @@
-<img src="[https://art.pixilart.com/sr2712ab0b35ecd.gif](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)"/>
+<img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" height='100'/>
 <!--
 **angerris/angerris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
